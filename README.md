@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working at **Yhealth Network Pvt Ltd.**
 
-- 🌱 I’m currently learning **backend development**
-
-- 💬 Ask me about **javascript and QA **
+- 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **adityakumar802215@gmail.com**
 
